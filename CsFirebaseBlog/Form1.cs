@@ -96,7 +96,7 @@ namespace CsFirebaseBlog
             DocumentReference DOC = db.Collection("Add_ListOfObjects").Document("myDoc");
             Dictionary<string, object> MainData = new Dictionary<string, object>();
             Dictionary<string, object> List1 = new Dictionary<string, object>()
-            {
+            { AccessibleDefaultActionDescription 
                 {"FirestName", "Kim" },
                 {"LastName","Jinwon" },
                 {"PhoneNumber", "010-1234-5678" }
