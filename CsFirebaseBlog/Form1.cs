@@ -41,7 +41,7 @@ namespace CsFirebaseBlog
         }
 
         private void Form1_Load(object sender, EventArgs e)
-        {
+        {  
             string path = AppDomain.CurrentDomain.BaseDirectory + @"cs-firebase-blog-firebase-adminsdk-18cwe-b5971a4787.json";
             Environment.SetEnvironmentVariable("GOOGLE_APPLICATION_CREDENTIALS", path);
 
