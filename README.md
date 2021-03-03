@@ -7,3 +7,4 @@ Firebase 연동 강좌
 - Chapter4 : https://half-dev.tistory.com/27
 - Chapter5 : https://half-dev.tistory.com/28
 - Chapter6 : https://half-dev.tistory.com/29
+- Chapter7 : https://half-dev.tistory.com/30
